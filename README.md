@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Jukkrit%20Sukkha&fontSize=70" width="100%" />
+  <img src="./header.gif" width="100%" />
   
   ### Fullstack Developer // Design Enthusiast
   

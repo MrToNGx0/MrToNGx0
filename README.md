@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=007ACC&height=200&section=header&text=Jukkrit%20Sukkha&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Jukkrit%20Sukkha&fontSize=70" width="100%" />
   
   ### Fullstack Developer // Design Enthusiast
   
@@ -12,6 +12,10 @@
 ---
 
 ### 🚀 About Me
+
+<div align="center">
+  <img src="./preview.gif" width="600" />
+</div>
 
 I am a Fullstack Developer who loves the intersection of **clean code** and **minimalist design**. I specialize in building scalable backend systems with **NestJS** and crafting immersive frontends with **React**. I'm currently focused on developing platforms that support creators and real-time interactive tools.
 
@@ -53,12 +57,12 @@ I am a Fullstack Developer who loves the intersection of **clean code** and **mi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrToNGx0&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrToNGx0&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrToNGx0&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrToNGx0&layout=compact&theme=radical" height="150" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrToNGx0&theme=default&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrToNGx0&theme=radical" width="100%" />
 </div>
 
 ---

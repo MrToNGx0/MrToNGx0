@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Jukkrit%20Sukkha&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=007ACC&height=200&section=header&text=Jukkrit%20Sukkha&fontSize=70&animation=fadeIn" width="100%" />
   
   ### Fullstack Developer // Design Enthusiast
   
   Passionate about building clean, performant, and user-centric digital experiences.  
   Based in Bangkok, Thailand 🇹🇭
   
-  [Portfolio](https://mrtongx0.github.io/) • [LinkedIn](https://www.linkedin.com/in/jukkrit-sukkha/) • [Email](mailto:tongsukkha@gmail.com)
+  [Portfolio](https://mrtongx0.github.io/) • [LinkedIn](https://www.linkedin.com/in/mrtongx0/) • [Email](mailto:tongsukkha@gmail.com)
 </div>
 
 ---
@@ -53,12 +53,12 @@ I am a Fullstack Developer who loves the intersection of **clean code** and **mi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrToNGx0&show_icons=true&theme=nord&hide_border=true&bg_color=ffffff00" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrToNGx0&layout=compact&theme=nord&hide_border=true&bg_color=ffffff00" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrToNGx0&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrToNGx0&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrToNGx0&theme=nord&hide_border=true&background=ffffff00" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrToNGx0&theme=default&hide_border=true" width="100%" />
 </div>
 
 ---

@@ -1,17 +1,17 @@
 <div align="center">
   <img src="./header.gif" width="100%" />
   
-  ### ⚡ Fullstack Developer // Design Enthusiast
+  ### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg" width="20" height="20" /> Fullstack Developer // Design Enthusiast
   
   Passionate about building clean, performant, and user-centric digital experiences.  
-  📍 Bangkok, Thailand
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="16" height="16" /> Bangkok, Thailand
   
   [Portfolio](https://mrtongx0.github.io/) • [LinkedIn](https://www.linkedin.com/in/mrtongx0/) • [Email](mailto:tongsukkha@gmail.com)
 </div>
 
 ---
 
-### 🖋️ About Me
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="24" height="24" /> About Me
 
 <div align="center">
   <img src="./preview.gif" width="600" />
@@ -19,13 +19,13 @@
 
 I am a Fullstack Developer who loves the intersection of **clean code** and **minimalist design**. I specialize in building scalable backend systems with **NestJS** and crafting immersive frontends with **React**. I'm currently focused on developing platforms that support creators and real-time interactive tools.
 
-- 🏗️ Currently building: **Creator Support Platform** & **TikTok Interactive Tools**
-- 🎨 Design Philosophy: **Light Minimalism & Clean Typography**
-- 💡 Tech Interest: **Automated video generation with Remotion**
+- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="18" height="18" /> Currently building: **Creator Support Platform** & **TikTok Interactive Tools**
+- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/palette.svg" width="18" height="18" /> Design Philosophy: **Light Minimalism & Clean Typography**
+- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/video.svg" width="18" height="18" /> Tech Interest: **Automated video generation with Remotion**
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code-2.svg" width="24" height="24" /> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -43,7 +43,7 @@ I am a Fullstack Developer who loves the intersection of **clean code** and **mi
 
 ---
 
-### ✨ Featured Projects
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/star.svg" width="24" height="24" /> Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -54,11 +54,11 @@ I am a Fullstack Developer who loves the intersection of **clean code** and **mi
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg" width="24" height="24" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrToNGx0&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrToNGx0&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrToNGx0&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrToNGx0&layout=compact&theme=default" height="150" />
 </p>
 
 <div align="center">
